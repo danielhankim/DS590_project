@@ -1,2 +1,3 @@
 presentation/
-notebook/cache/
+notebooks/cache
+notebooks/.ipynb_checkpoints
